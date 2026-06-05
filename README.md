@@ -22,12 +22,12 @@ It includes both **Admin** and **User** modes with full quiz management features
 - Random module
 
 # How to Run
--Go to the Releases section of this repository
--Download the .exe file
--Run the file on your system
+- Go to the Releases section of this repository
+- Download the .exe file
+- Run the file on your system
 
 # Project Status
--Completed and Functional
+- Completed and Functional
 
 # Author
--Aarav Punj
+- Aarav Punj
